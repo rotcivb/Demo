@@ -6,3 +6,4 @@ This is my first repository.
 Added a feature branch
 
 # After clossing Vscode
+added to config
